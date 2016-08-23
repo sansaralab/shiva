@@ -16,4 +16,3 @@ services:
     build: ./shiva-queue
     ports:
       - "11300:11300"
-
