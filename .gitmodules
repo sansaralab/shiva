@@ -1,0 +1,12 @@
+[submodule "shiva-core"]
+	path = shiva-core
+	url = git@github.com:sansaralab/shiva-core.git
+[submodule "shiva-head"]
+	path = shiva-head
+	url = git@github.com:sansaralab/shiva-head.git
+[submodule "shiva-queue"]
+	path = shiva-queue
+	url = git@github.com:sansaralab/shiva-queue.git
+[submodule "shiva-db"]
+	path = shiva-db
+	url = git@github.com:sansaralab/shiva-db.git
