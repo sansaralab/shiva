@@ -10,3 +10,6 @@
 [submodule "shiva-db"]
 	path = shiva-db
 	url = git@github.com:sansaralab/shiva-db.git
+[submodule "shiva-hands"]
+	path = shiva-hands
+	url = git@github.com:sansaralab/shiva-hands.git
